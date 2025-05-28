@@ -2,7 +2,7 @@
   "name": "cse110-Lab8",
   "short_name": "Ada He",
   "description": "Making this offline-compatible recipe card display a progressive web app!",
-  "start_url": "./index.html",
+  "start_url": "https://github.com/adahe8/cse110-Lab8",
   "display": "fullscreen",
   "background_color": "cornflower-blue",
   "theme_color": "coral",
