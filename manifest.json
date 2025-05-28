@@ -3,7 +3,7 @@
   "short_name": "Ada He",
   "description": "Making this offline-compatible recipe card display a progressive web app!",
   "start_url": "./index.html",
-  "display": "fullscreen",
+  "display": "browser",
   "background_color": "cornflower-blue",
   "theme_color": "coral",
   "icons": [
@@ -24,6 +24,11 @@
     },
     {
       "src": "/assets/images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/icons/arrow-down.png",
       "sizes": "512x512",
       "type": "image/png"
     },
